@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hej! 👋
+Elfi heter jag. Jag pluggar webbutveckling på mittuniversitetet och håller på att lära mig hur detta fugerar 😊
 <!--
 **ElfiSv/ElfiSv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
